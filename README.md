@@ -2,4 +2,4 @@
 - 👀 Я хочу найти работу связанную с тестированием и обеспечением качества. 
 - 🌱 В настоящее время я изучаю теорию тестирования программного обеспечения, а также GitBash, Postman, DevTools, PostgreSQL, AndroidStudio, Charles, Fiddler, Jmeter...
 - 💞️ Интересуют любые проекты где я буду полезен.
-- Как связаться со мной: | [Telegram](https://t.me/DmitryListopad) | [Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRvKSMNjHBGXqPQmqhjZGdcpchvlrZzVghDsHZcSHBwGZvnHWxsZqtpMCpPDZzRRwFZTl) | [LinkedIn](https://www.linkedin.com/in/dmitry-listopad-77181321a) |
+- Как связаться со мной: | [Telegram](https://t.me/DmitryListopad) | [LinkedIn](https://www.linkedin.com/in/dmitry-listopad-77181321a) | dzmitry.listapad@gmail.com | +375297727870 |
