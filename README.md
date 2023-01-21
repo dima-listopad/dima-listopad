@@ -1,1 +1,1 @@
-| [Telegram](https://t.me/DmitryListopad) | dzmitry.listapad@gmail.com |
+| [Telegram](https://t.me/DmitryListopad) | listapad.dzmitry@gmail.com |
